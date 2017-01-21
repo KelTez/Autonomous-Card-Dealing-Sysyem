@@ -1,8 +1,8 @@
 # Autonomous-Card-Dealing-Sysyem
-#Code
 
 
-#include "NXTServo-lib-UW.c"
+
+//#include "NXTServo-lib-UW.c"
 
 void shuffle()
     {
