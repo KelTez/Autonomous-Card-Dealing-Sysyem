@@ -11,8 +11,7 @@ void shuffle()
         motor[motorC] = -45;
         while(nNxtButtonPressed!=3);
         motor[motorA]=0;
-        motor[motorC]=0;
-        
+        motor[motorC]=0;   
     }
 
 
